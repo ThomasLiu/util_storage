@@ -1,0 +1,22 @@
+{
+  "name": "util_storage",
+  "version": "0.0.1",
+  "description": "localStorage 兼容IE 等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLiu/util_storage.git"
+  },
+  "keywords": [
+    "Storage"
+  ],
+  "author": "Thomas Lau (thomas_0836@qq.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLiu/util_storage/issues"
+  },
+  "homepage": "https://github.com/ThomasLiu/util_storage#readme"
+}
